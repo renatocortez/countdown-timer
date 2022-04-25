@@ -1,5 +1,4 @@
 # countdown-timer
- countdown-timer
  
 In this tutorial, you will learn how to make a countdown clock which can be used when a new product is coming out or a sale is about to end on an ecommerce site.
 
